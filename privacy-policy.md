@@ -1,68 +1,98 @@
 **Privacy Policy**
 
-This privacy policy is applicable to the Wassertemperatur & Pegel app (hereinafter referred to as "Application") for mobile devices, which was developed by Hans Poreda & Lovis Steinmayer Softwareentwicklung GbR (hereinafter referred to as "Service Provider") as a a Freemium service. This service is provided "AS IS".
+This privacy policy applies to the Wassertemperatur & Pegel mobile application (the "App") developed by Hans Poreda & Lovis Steinmayer Softwareentwicklung GbR ("we," "us," or "Service Provider"). This service is provided as a freemium offering.
 
-**What information does the Application obtain and how is it used?**  
-**User Provided Information**
+**1. Data Controller and Contact Information**
 
-The Application acquires the information you supply when you download and register the Application. Registration with the Service Provider is not mandatory. However, bear in mind that you might not be able to utilize some of the features offered by the Application unless you register with them.
+Hans Poreda & Lovis Steinmayer Softwareentwicklung GbR  
+Email: info@squash-gbr.com
 
-The Service Provider may also use the information you provided them to contact you from time to time to provide you with important information, required notices and marketing promotions.
+**2. Legal Basis for Processing**
+
+We process your personal data based on:
+- Art. 6(1)(b) GDPR: Performance of contract
+- Art. 6(1)(f) GDPR: Legitimate interests (service improvement, security)
+- Art. 6(1)(a) GDPR: Consent (where applicable)
+
+**3. Information We Collect**
+
+**User-Provided Information**
+Registration is optional. When you register, we may collect information you voluntarily provide. We may use this information to contact you with important updates, notices, and promotional content.
 
 **Automatically Collected Information**
+The App may automatically collect:
+- Device type and unique device identifier
+- IP address
+- Mobile operating system
+- Browser type
+- App usage information
 
-In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application.
+**Location Data**
+This App does not collect precise real-time location information from your device.
 
-**Does the Application collect precise real time location information of the device?**
+**4. Data Sources**
 
-This Application does not gather precise information about the location of your mobile device.
+The App uses environmental data from the Bayerisches Landesamt für Umwelt (www.lfu.bayern.de) to provide water temperature and level information.
 
-**Do third parties see and/or have access to information obtained by the Application?**
+**5. Third-Party Services and Data Processing**
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+**RevenueCat**
+We use RevenueCat for subscription management. Please review their privacy policy: [RevenueCat Privacy Policy](https://www.revenuecat.com/privacy)
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+**Vercel Hosting**
+Vercel processes data on our behalf as a data processor under Art. 28 GDPR. Processing is based on Art. 6(1)(f) GDPR (legitimate interest in secure and efficient hosting).
 
-*   [RevenueCat](https://www.revenuecat.com/privacy)
+To secure international data transfers, we have concluded a Data Processing Addendum (DPA) including EU Standard Contractual Clauses with Vercel. Vercel is also certified under the EU-US Data Privacy Framework.
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+For more information, see:
+- [Vercel Privacy Policy](https://vercel.com/legal/privacy-policy)
+- [Vercel Data Processing Addendum](https://vercel.com/legal/dpa)
 
-*   as required by law, such as to comply with a subpoena, or similar legal process;
-*   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-*   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+**6. Data Sharing**
 
-**What are my opt-out rights?**
+We only share aggregated, anonymized data with external services to improve the App. We may disclose personal information:
+- As required by law (subpoenas, legal processes)
+- To protect rights, safety, or investigate fraud
+- To trusted service providers bound by confidentiality agreements
 
-You can halt all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+**7. Your Rights Under GDPR**
 
-**Data Retention Policy, Managing Your Information**
+You have the right to:
+- Access your personal data (Art. 15 GDPR)
+- Rectify inaccurate data (Art. 16 GDPR)
+- Erase your data (Art. 17 GDPR)
+- Restrict processing (Art. 18 GDPR)
+- Data portability (Art. 20 GDPR)
+- Object to processing (Art. 21 GDPR)
+- Withdraw consent (Art. 7(3) GDPR)
 
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. The Service Provider will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you'd like the Service Provider to delete User Provided Data that you have provided via the Application, please contact them at info@squash-gbr.com and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
+To exercise these rights, contact us at info@squash-gbr.com. You also have the right to lodge a complaint with your local data protection authority.
 
-**Children**
+**8. Data Retention**
 
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+- User-provided  Retained while you use the App and for a reasonable period thereafter
+- Automatically collected  Up to 24 months, then stored in aggregate form
+- To request deletion of user-provided data, contact info@squash-gbr.com
 
-The Application does not address anyone under the age of 13\. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discover that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider (info@squash-gbr.com) so that they will be able to take the necessary actions.
+**9. Children's Privacy**
 
-**Security**
+This App is not directed at children under 16 years. We do not knowingly collect personal data from children under 16. If we discover such collection has occurred, we will immediately delete the information. Parents who believe their child has provided personal information should contact us at info@squash-gbr.com.
 
-The Service Provider are concerned about safeguarding the confidentiality of your information. The Service Provider provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve their Application. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
+**10. Data Security**
 
-**Changes**
+We implement appropriate technical and organizational measures to protect your personal data, including physical, electronic, and procedural safeguards. Access is limited to authorized personnel who need the information for operational purposes.
 
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+**11. International Data Transfers**
 
-This privacy policy is effective as of 2025-09-30
+When we transfer personal data outside the EU/EEA, we ensure adequate protection through appropriate safeguards such as adequacy decisions, Standard Contractual Clauses, or certification schemes like the EU-US Data Privacy Framework.
 
-**Your Consent**
+**12. Changes to This Policy**
 
-By using the Application, you are giving your consent to the Service Provider processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information.
+We may update this privacy policy periodically. We will notify you of material changes by updating this page and indicating the revision date. Continued use of the App after changes constitutes acceptance of the updated policy.
 
-**Contact us**
+**13. Contact Information**
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at info@squash-gbr.com.
+For privacy-related questions or to exercise your rights, contact us at:
+Email: info@squash-gbr.com
 
-* * *
-
-This privacy policy page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+**Effective Date:** September 30, 2025
